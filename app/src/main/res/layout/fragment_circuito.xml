@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    tools:context=".MyActivity$PlaceholderFragment">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/frg_imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/circuitochico"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/tv_circuito"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CIRCUITO CHICO"
+        android:textSize="15dp"
+        android:textColor="#ff000000"
+        android:background="#ffc5c5c5"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

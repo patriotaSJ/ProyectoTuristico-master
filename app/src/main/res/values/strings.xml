@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">ViewPagerListViewActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="circuito">
+        <item> CIRCUITO CHICO </item>
+        <item> CIRCUITO LUNAR </item>
+        <item> RUTA DEL VINO </item>
+        <item> CIRCUITO DEL SOL </item>
+        <item> CIRCUITO VERDE </item>
+        <item> CIRCUITO DEL RÍO </item>
+    </string-array>
+
+    <!-- **************** CIRCUITO CHICO  ****************** -->
+
+    <string-array name="circuitochico_titulo">
+        <item>Plaza 25 de Mayo</item>
+        <item>Iglesia Catedral</item>
+        <item>Casa Natal de Sarmiento</item>
+        <item>Celda Histórica de San Martín</item>
+        <item>Parque de Mayo</item>
+        <item>Auditorio Juan Victoria</item>
+        <item>Museo de Ciencias Naturales</item>
+        <item>Museo Santiago Graffigna</item> <!--  8 items -->
+    </string-array>
+
+
+    <string-array name="circuitochico_contenido">
+        <item>Es la plaza principal de la ciudad de San Juan y es donde se encuentra el kilómetro 0 de la provincia...</item>
+        <item>De moderno estilo, fue inaugurada en 1979. Su campanario es una aguja de 51 metros de altura...</item>
+        <item>Fue el primer monumento histórico declarado en nuestro país, en 1910...</item>
+        <item>Declarado Museo Histórico Nacional, el edificio del antiguo templo de Santo Domingo data del siglo XVII...</item>
+        <item>El proyecto original fue realizado por el ingeniero Alvaro Bosain en 1910 y luego fue remodelado en 1927 para...</item>
+        <item>Constituye uno de los principales centros culturales de San Juan. Destinada a la música sinfónica...</item>
+        <item>Este museo geológico, mineralógico, botánico y zoológico se encuentra en el Predio Ferial...</item>
+        <item>En noviembre de 2003 se inauguró el Museo Santiago Graffigna, para preservar el patrimonio y...</item>
+    </string-array>
+
+    <string-array name="circuitochico_contenido_completo">
+        <item>Es la plaza principal de la ciudad de San Juan y es donde se encuentra el kilómetro 0 de la provincia. Anteriormente la plaza principal estaba en Concepción, donde Juan Jufré fundó la ciudad en 1562, pero a cau-
+sa de una gran inundación y para proteger a los vecinos amenazados por las aguas de las crecidas veraniegas, en 1594 fue trasladada 15 cuadras al sur y establecida definitivamente en el lugar en el que se encuentra en la actualidad. El centro de la plaza está adornado por una añosa pero bien cuidada fuente y entre los espacios verdes forestados con palmeras, robles, cedros y plátanos; se destacan 2 importantes monumentos: uno a Fray Justo Santa María de Oro y el otro de Domingo Faustino Sarmiento rodeado de niños escolares.</item>
+        <item>De moderno estilo, fue inaugurada en 1979. Su campanario es una aguja de 51 metros de altura, desde sus cimientos, con mirador a 33 metros del suelo. Su acceso lo posibilitan dos monumentales puertas de bronce, labradas en Faenza (Italia), con bajorrelieves de diversos santos. El altar tiene un Cristo rodeado por 64 estrellas que representan los países católicos. En el subsuelo de la iglesia se encuentran la cripta, panteón de obispos y la capilla de Fray Justo Santa María de Oro. De la Catedral destruída por el terremoto de 1944 se conservan la imagen de San Juan Bautista, un Cristo crucificado y la figura de María Inmaculada.</item>
+        <item>Fue el primer monumento histórico declarado en nuestro país, en 1910. En esta casa nació el ilustre educador y presidente de la república, Domingo Faustino Sarmiento, el 15 de Febrero de 1811. En la actualidad cuenta con 9 salas, en las cuales pueden admirarse reliquias, muebles, fotografías, medallas conmemorativas, periódicos y libros escritos por Sarmiento en sus colecciones originales. En el patio central de la casa se conserva un retoño de la higuera y una réplica del histórico telar de doña Paula, su madre, al que Sarmiento hace mención en su libro "Recuerdos de Provincia".</item>
+        <item>Declarado Museo Histórico Nacional, el edificio del antiguo templo de Santo Domingo data del siglo XVII. En él se encuentra la celda (dormitorio) que fue cedida por el Prior del convento, junto con la Sala Capitular, al General San Martín, durante su estadía en San Juan, mientras preparaba la campaña Libertadora a Chile. En su interior conserva intactos los muebles usados por el prócer, y en el patio, árboles centenarios y las dos grandes campanas que anunciaron al pueblo el triunfo de Chacabuco.</item>
+        <item>El proyecto original fue realizado por el ingeniero Alvaro Bosain en 1910 y luego fue remodelado en 1927 para finalmente quedar con la disposición que tiene en la actualidad luego del terremoto de 1944, aunque después recibió modificaciones y mejoras en reiteradas oportunidades. Dentro del parque podemos encontrar juegos infantiles, un pequeño lago artificial y variadas esculturas y monumentos, entre los que se destacan el Monumento al Deporte, la Estatua Ecuestre del General San Martín, la Estatua de Federico Cantoni y otros bustos de sanjuaninos ilustres</item>
+        <item>Constituye uno de los principales centros culturales de San Juan. Destinada a la música sinfónica, su magnífica sala de conciertos, catalogada entre las mejores del mundo, tiene capacidad para 1.000 espectadores y una caja de orquesta para 70 músicos y coro de 90 personas. Cuenta con un excelente órgano de 3.565 tubos y 61 registros, que sumado al revestimiento especialmente diseñado en madera, brinda un sonido imponente. Dentro del complejo se encuentra, además, la escuela de música con aulas acústicamente tratadas y, para completar esta majestuosa obra arquitectónica, en los jardines aledaños se ubica un teatro al aire libre con capacidad para 600 personas.</item>
+        <item>Este museo geológico, mineralógico, botánico y zoológico se encuentra en el Predio Ferial (ex Ferocarril Gral Belgrano). Reúne restos fósiles y réplicas de fauna de hace 150 a más de 200 millones de años, descubiertos en el yacimiento paleontológico de Ischigualasto. Entre los fósiles más relevantes se destaca un cráneo de "Herrerasaurus Ischigualastensis" que junto al "Eoraptor Lunensis" son los últimos hallazgos científicos y representan los testimonios más antiguos de los dinosaurios encontrados hasta hoy en el planeta. El museo posee también una colección de minerales y rocas que muestran la variada geología y el potencial minero de San Juan.</item>
+        <item>En noviembre de 2003 se inauguró el Museo Santiago Graffigna, para preservar el patrimonio y la tradición de los fundadores. La familia Graffigna participó activamente en la recopilación de información, archivos fotográficos, de sonido y fílmicos, y en la transmisión oral de relatos espontáneos. El lugar cuenta con un auditorio y una sala de máquinas, donde antiguamente estaba ubicado el lagar de la bodega.
+En el patio de cubas el visitante puede hacer un alto, bajo el fresco de las primeras cepas. El museo cuenta con un sector de viñas donde se explica lo que era la vendimia por entonces y el clima de la provincia para el cultivo de la vid. También se puede recorrer la zona de las antiguas oficinas. El recorrido finaliza en el Wine Bar, ambientado con originalidad, para quienes quieran llevarse un recuerdo de la visita o degustar los vinos que elabora la bodega.
+\n
+\n•\tHorario de visitas:
+\nLunes a Sábados de 9:00 a 17:30 (última visita)
+\ny Domingos y Feriados de 10:00 a 16:00.
+\nVisitas guiadas y degustaciones en lengua de señas.
+\nReservar con anticipación.</item>
+    </string-array>
+
+    <!-- **************** CIRCUITO LUNAR  ****************** -->
+    <string-array name="circuitolunar_titulo">
+        <item>Caucete</item>
+        <item>Difunta Correa</item>
+        <item>Valle Fértil</item>
+        <item>Ischigualasto</item>
+    </string-array>
+
+    <string-array name="circuitolunar_geo">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="circuitolunar_contenido">
+        <item>Su calle principal que corre en diagonal conecta con...</item>
+        <item>Sin dudas, el principal centro turístico de Caucete es el Santuario de la Difunta Correa. Según cuenta la leyenda...</item>
+        <item>Es un bellísimo paraje que, tapizado por una abundante y variada vegetación, se caracteriza por ...</item>
+        <item>También conocido como Valle de la Luna, constituye el centro turístico más importante de San Juan y uno de los...</item>
+    </string-array>
+
+    <string-array name="circuitolunar_contenido_completo">
+        <item>Su calle principal que corre en diagonal conecta restaurantes, cafés, tiendas, supermercados y demás negocios. La ciudad de Caucete representa una importante zona comercial, agrícola y vitivinícola dentro de la provincia. Uno de los principales atractivos turísticos que posee es El Baño del Indio, una curiosa hoya de rocas grises, que contiene una gran cantidad de petroglifos de la época incaica.</item>
+        <item>Sin dudas, el principal centro turístico de Caucete es el Santuario de la Difunta Correa. Según cuenta la leyenda, Deolinda Correa fue encontrada sin vida en este desértico lugar, pero su cuerpo inerte seguía amamantando milagrosamente a su hijo, quien logró sobrevivir. La leyenda fue haciéndose popular y comenzó a acercarse cada vez más gente a realizar promesas en su santuario. En la actualidad, su culto se ha convertido en un atractivo de grandes magnitudes, especialmente para Semana Santa. Se estima que unas 700.000 personas visitan su santuario cada año (tanto de San Juan y de otras provincias de Argentina, como también de otros países).</item>
+        <item>Es un bellísimo paraje que, tapizado por una abundante y variada vegetación, se caracteriza por su paisaje serrano con gran cantidad de cactus y su tranquila ciudad erigida al pie de las sierras. En élla encontramos el Dique San Agustín que, en sus pacíficas aguas, ofrece un lugar propicio para la pesca del pejerrey. En sus inmediaciones podemos visitar además Las Tumanas, un hermoso lugar para acampar y disfrutar de la naturaleza. Pero, sin dudas, el principal atractivo turístico del lugar es el famoso Valle de la Luna.</item>
+        <item>También conocido como Valle de la Luna, constituye el centro turístico más importante de San Juan y uno de los más importantes de la Argentina. El Valle de la Luna, conocido así por su paisaje especial, es un valle de 150 km2, de extraordinario valor arqueológico y paleontológico. Casi toda el área está formada por terrenos del período triásico, que conservan fósiles de hace 225 millones de años. En su rocoso relieve, la erosión provocada por el viento a lo largo de tantos años, ha creado curiosas formaciones que hacen que Ischigualasto, además de tener un altísimo valor científico, posea un espectacular paisaje de características únicas. Estas particularidades hacen que investigadores y científicos de todo el mundo visiten periódicamente el Valle de la Luna para estudiarlo. Por todo esto, en Noviembre del año 2000, la UNESCO declaró al Sitio Ischigualasto-Talampaya PATRIMONO NATURAL DE LA HUMANIDAD.</item>
+    </string-array>
+
+
+    <!-- **************** RUTA DEL VINO  ****************** -->
+
+    <string-array name="rutadelvino_titulo">
+        <item>Bodegas La Guarda</item>
+        <item>Champañera Miguel Mas</item>
+        <item>Bodegas y Viñedos Fabril Alto Verde</item>
+        <item>Las Marianas Bodega Familiar</item>
+        <item>Viñas de Segisa</item>
+    </string-array>
+
+    <string-array name="rutadelvino_geo">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="rutadelvino_contenido">
+        <item>Es una bodega de arquitectura clásica a la que se le incorporó ele-mentos tecnológicos...</item>
+        <item>En 1998 el ingeniero Miguel Más crea la champañera en la que se ...</item>
+        <item>Las instalaciones de Fabril Alto Verde permiten ser visitadas por turistas, clientes...</item>
+        <item>La degustación de vinos exclusivos obtenidos con control...</item>
+        <item>Se caracteriza por ser la primera bodega boutique de San Juan</item>
+    </string-array>
+
+    <string-array name="rutadelvino_contenido_completo">
+        <item>Es una bodega de arquitectura clásica a la que se le incorporó ele-mentos tecnológicos, actualmente utilizados para la elaboración de vinos de alta calidad a nivel internacional. Los viñedos están ubicados a 55 km de la capital de la provincia de San Juan, en el departamento Sarmiento, zona del Valle de Tulum. Interesante zona para el cultivo de la vid, a 750 metros sobre el nivel del mar y a pocos kilómetros de la precordillera de los Andes posee condiciones características de las zonas cálidas y áridas que acompaña a las añadas, otorgándole sus distintos caracteres a cada variedad cultivada.</item>
+        <item>En 1998 el ingeniero Miguel Más crea la champañera en la que se elaboran a partir de las frutas obtenidas en la huerta, vinos, vinos espumantes, aceto balsámico y vinagre orgánico de excelente calidad que son certificados por empresas de reconocida trayectoria internacional. Este emprendimiento familiar está ubicado en una zona de excepcional fertilidad, rodeada de montañas y regada por aguas del deshielo provenientes de la Cordillera de Los Andes.</item>
+        <item>Las instalaciones de Fabril Alto Verde permiten ser visitadas por turistas, clientes, enófilos y público en general. En el recorrido por la bodega el visitante se llevará una idea muy acabada de las distintas etapas de elaboración de los vinos en sus diversos tipos y espumantes. La visita culmina con una degustación en el elegante wine bar, dirigida por una experta degustadora quien nos enseñará detalles y pequeños secretos que debemos tener en cuenta a la hora de valorar un vino.</item>
+        <item>La degustación de vinos exclusivos obtenidos con control personalizado desde la producción, cosecha y elaboración, y un paseo por la antigua bodega con sus maquinarias del año 1920 harán de su visita un agradable recorrido por la historia y evolución de una actividad tan arraigada al sentimiento de los habitantes de estas tierras</item>
+        <item>Se caracteriza por ser la primera bodega boutique de San Juan. Un salón de principios de siglo pasado totalmente renovado, sus cavas subterráneas, sus barricas de roble y hermosos viñedos le permitirán al visitante disfrutar, conocer y descubrir el mágico mundo del vino. Viñas de Segisa propone vivir la historia y los procesos de elaboración, y aprender a degustar vinos en forma gratuita. A menudo se realizan, además, en la bodega, espectáculos artísticos para hacer esta experiencia aun más especial.</item>
+    </string-array>
+
+    <!-- **************** CIRCUITO DEL SOL  ****************** -->
+
+    <string-array name="circuitodelsol_titulo">
+        <item>Parque Faunístico</item>
+        <item>Dique de Ullum</item>
+        <item>Quebrada de Zonda</item>
+        <item>Jardín de los Poetas</item>
+        <item>Autódromo El Zonda</item>
+        <item>Cavas de Zonda</item>
+    </string-array>
+
+    <string-array name="circuitodelsol_geo">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="circuitodelsol_contenido">
+        <item>Pocos metros antes de llegar al embalse del Dique de Ullum...</item>
+        <item>Ubicado en uno de los valles más sugestivos e impactantes de la provincia...</item>
+        <item>Esta hermosa conjunción de cerros y valles fue transformada en 1932 en... </item>
+        <item>Es la "puerta de entrada" al Parque Federico Cantoni. En él...</item>
+        <item>Siguiendo la ruta de entrada al parque Federico Cantoni hacia el norte se encuentra el Autódromo El Zonda, rebautizado como...</item>
+        <item>En el año 1928, un contingente de inmigrantes yugoslavos realizó una titánica obra en...</item>
+
+    </string-array>
+
+    <string-array name="circuitodelsol_contenido_completo">
+        <item>Pocos metros antes de llegar al embalse del Dique de Ullum, se encuentra el Parque Faunístico, una excelente alternativa para disfrutar del sol sanjuanino en familia, contemplando y conociendo la fauna autóctona de nuestra provincia y algunos animales exóticos que completan el cuadro. El parque cuenta, además, con juegos y entretenimientos para recreación de los más pequeños.</item>
+        <item>Ubicado en uno de los valles más sugestivos e impactantes de la provincia, el Dique de Ullum es un atractivo turístico de primer orden. Además del excelente paisaje que forma la combinación del espejo del lago con las montañas que lo rodean, es un lugar propicio para deportes náuticos como el wind-surf, lancha, jet-ski y pesca en cualquier época. No obstante esto, cobra especial animación en verano, ya que los numerosos y completos balnearios que se levantan en sus orillas y la cercanía con la ciudad, han hecho del Dique de Ullum el lugar favorito de veraneo de sanjuaninos y turistas.</item>
+        <item>Esta hermosa conjunción de cerros y valles fue transformada en 1932 en un parque provincial por el gobernador de ese entonces Federico Cantoni, con el nombre de "Parque Bernardino Rivadavia", renombrado finalmente como "Parque Federico Cantoni" en 1974 en reconocimiento a su creador. En su interior podemos encontrar varios atractivos de carácter turístico como el Jardín de los Poetas y El Autódromo Eduardo Copello. Siguiendo el recorrido encontramos el Museo Geográfico Einstein, curiosamente emplazado en un ancho túnel dentro de un cerro, y que tiene más de 9.500 piezas arqueológicas y geológicas. En el confín del parque, arribamos al Lugar Histórico donde Sarmiento, proscripto por Rosas en 1840 y rumbo al exilio en Chile, escribió en francés con carbón sobre la roca la famosa frase "Las ideas no se matan".</item>
+        <item>Es la "puerta de entrada" al Parque Federico Cantoni. En él se ha dibujado el Escudo Provincial con estudiada forestación, empleando follaje, piedras y flores. Subiendo por una escalinata de 360 escalones hasta el punto medio de la Sierra Chica de Zonda, a unos 70 metros de altura, puede obtenerse una hermosa vista panorámica del mencionado escudo. A orillas de los paseos internos del escudo se alinean las estatuas de los más destacados escritores argentinos formando el "Jardín de los Poetas", en el cual se rinde homenaje, entre otros, a Sarmiento y Alfonsina Storni.</item>
+        <item>Siguiendo la ruta de entrada al parque Federico Cantoni hacia el norte se encuentra el Autódromo El Zonda, rebautizado "Eduardo Copello" en homenaje a este gran automovilista sanjuanino. La pista tiene un recorrido de 3.230 mts., donde se realizan importantes competencias automovilísticas provinciales y nacionales como el TC 2000. Es considerado uno de los circuitos más difíciles y pintorescos del país y catalogado, por su emplazamiento entre los cerros, como único en Sudamérica. Construido en la ladera de los cerros, posee características exclusivas, tanto por la pericia que exige a los corredores como por la espectacular visión panorámica de la pista que brinda a los espectadores. Fue proyectado por el Ingeniero Hugo Montes Romaní en la Quebrada de Zonda, por lo cual se la denomina también la "Quebrada Rugiente", aludiendo al rugir de los motores que rompen el silencio de la zona en épocas de competencias automovilísticas.</item>
+        <item>En el año 1928, un contingente de inmigrantes yugoslavos realizó una titánica obra en los cerros de la Quebrada El Zonda, en San Juan. Con esfuerzo y valentía, esos 2.500 hombres dinamitaron la sólida roca y cavaron gigantescos túneles en siete niveles sobre esta particular geografía. Una de las cuevas realizadas en esa época es el maravilloso lugar donde actualmente se encuentra la bodega de Champaña Cavas de Zonda, única cava en Sudamérica que tiene por techo natural la montaña. La temperatura en su interior se mantiene durante todo el año entre los 16º y los 18º C.
+\n
+•\tHorarios de visita: Lunes a viernes de 9 a 17 hs.
+Sábados, domingos y feriados de 11 a 17 hs.</item>
+    </string-array>
+
+    <!-- **************** CIRCUITO VERDE  ****************** -->
+
+    <string-array name="circuitoverde_titulo">
+        <item>Iglesia</item>
+        <item>Termas de Pismanta</item>
+        <item>Rodeo</item>
+        <item>Tudcum</item>
+        <item>Dique Cuesta del Viento</item>
+        <item>Jáchal</item>
+        <item>Huaco</item>
+    </string-array>
+
+    <string-array name="circuitoverde_geo">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="circuitoverde_contenido">
+        <item>En su impactante territorio ofrece un gran abanico de opciones: practicar turismo aventura...</item>
+        <item>A 187 km de San Juan, Pismanta ofrece las ventajas de su clima cordillerano seco...</item>
+        <item>Rodeo es la villa turística de la ciudad de Iglesia, con variedad de alojamientos...</item>
+        <item>Es un pequeño y pintoresco pueblo con casas de adobe y cercos de tapia...</item>
+        <item>Incrustado en las montañas aparece el impactante Dique Cuesta del Viento,...</item>
+        <item>Es una ciudad tranquila y muy tradicionalista. En élla se celebra cada año la Fiesta de la Tradición...</item>
+        <item>Cuna del poeta Don Buenaventura Luna, que plasmara en sus poemas la pasión por su terruño</item>
+    </string-array>
+
+    <string-array name="circuitoverde_contenido_completo">
+        <item>En su impactante territorio ofrece un gran abanico de opciones: practicar turismo aventura, pesca, turismo rural, degustar exquisitos chivos y corderos o adquirir productos y artesanías del lugar. Pero el punto más destacado de Iglesia es el Parque Nacional San Guillermo, una de las Reservas Naturales más importantes del mundo, cuyo fin es la preservación ecológica de guanacos y vicuñas (especies en extinción), que comparten su hábitat con el zorro colorado, el puma, el ñandú y el cóndor</item>
+        <item>A 187 km de San Juan, Pismanta ofrece las ventajas de su clima cordillerano seco con vertientes termales. Allí se encuentra el Centro Termal Pismanta, reconocido a nivel internacional por las propiedades curativas de sus aguas, que brotan a 45° C de vertientes volcánicas ubicadas a 2.010 m.s.n.m. y son muy recomendadas para afecciones relacionadas con el sistema termo-regulador del organismo.</item>
+        <item>Rodeo es la villa turística de la ciudad de Iglesia, con variedad de alojamientos que incluyen hotelería, campings, cabañas y posadas. Con su paisaje de enormes bellezas naturales, es uno de los centros turísticos de San Juan que más ha crecido en los últimos tiempos. Posee un excelente clima, con poca humedad y temperaturas agradables casi todo el año.</item>
+        <item>Es un pequeño y pintoresco pueblo con casas de adobe y cercos de tapia. En su paisaje resaltan plantaciones de manzanos, higueras, nogales y durazneros, bordeados por alamedas. Sus tejedoras son reconocidas por la calidad de las prendas que tejen al telar: mantas, ponchos, jergones y alforjas, entre otros.</item>
+        <item>Incrustado en las montañas aparece el impactante Dique Cuesta del Viento, imponente espejo de agua cristalina color turquesa inmerso en un espectacular entorno de cordillera que permite apreciar la naturaleza de un lugar único en el mundo. El fuerte y constante viento que corre en el lugar, sumado a las características de su clima y de sus aguas, hacen que sea considerado, por los entendidos, como uno de los mejores lugares del planeta para la práctica del wind-surf.</item>
+        <item>Es una ciudad tranquila y muy tradicionalista. En élla se celebra cada año la Fiesta de la Tradición, una colorida fiesta folclórica con desfiles, carruajes y diversos espectáculos. Aquí se puede visitar la Iglesia de Jáchal, Monumento Histórico Nacional, donde se puede apreciar el Cristo Crucificado, imagen de un Cristo de tamaño natural, de cuero negro y articulado, realizado por indios de origen cuzqueño y traído desde Potosí en 1783. Otro punto destacado es el dique Los Cauquenes ubicado a 1.100 m.s.n.m., ideal para la pesca deportiva del pejerrey.</item>
+        <item>Cuna del poeta Don Buenaventura Luna, que plasmara en sus poemas la pasión por su terruño, conserva testimonios de una época floreciente de la economía jachallera, como lo es el viejo molino harinero exponente de la vida de este pueblo, que junto a otros molinos de la zona, conforman el circuito de los viejos molinos, recientemente declarados Monumento Histórico Nacional.</item>
+    </string-array>
+
+    <!-- **************** CIRCUITO DEL RÍO  ****************** -->
+
+    <string-array name="circuitodelrio_titulo">
+        <item>Calingasta</item>
+        <item>Barreal</item>
+        <item>Pampa El Leoncito</item>
+        <item>Reserva Astronómica El Leoncito</item>
+    </string-array>
+
+    <string-array name="circuitodelrio_geo">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="circuitodelrio_contenido">
+        <item>Ubicado a 1.500 mts. de altura sobre el nivel del mar, es un lugar que, por su paisaje...</item>
+        <item>Barreal es la villa turística de este sector. Enmarcado por la cercana presencia de ..</item>
+        <item>Se trata de una increíble planicie arcillosa blanquecina, casi sin declive, resto de...</item>
+        <item>Con una extensión de 76.000 hectáreas, este privilegiado lugar posee un cielo ...</item>
+    </string-array>
+
+    <string-array name="circuitodelrio_contenido_completo">
+        <item>Ubicado a 1.500 mts. de altura sobre el nivel del mar, es un lugar que, por su paisaje, ríos, montañas, valles, lo quebrado del terreno, la flora, la fauna, y el cielo límpido poblado de estrellas deslumbra en cualquier época del año. Entre sus mayores atractivos se encuentra el Cerro Alcázar, una caprichosa formación de rocas que recuerdan al famoso Alcázar español.</item>
+        <item>Barreal es la villa turística de este sector. Enmarcado por la cercana presencia de la Cordillera de los Andes y caracterizado por las típicas alamedas que bordean sus calles, cuenta con una variada oferta de alojamientos y atracciones turísticas. Pesca, trekking, cabalgatas, travesías 4x4 en alta cordillera y enduro son algunas de las actividades que pueden realizarse.</item>
+        <item>Se trata de una increíble planicie arcillosa blanquecina, casi sin declive, resto de antigua cuenca lacustre, que tiene 14 km de largo por 4 km de ancho. Estas características, sumadas al constante viento que sopla en el lugar, hacen de El Leoncito una pista perfecta para la práctica del Carrovelismo, deporte no convencional que se practica con autos a vela (wind-cars) que corren empujados por el viento, cuya velocidad, cuadruplicada por la vela, puede alcanzar más de 135 km/h.</item>
+        <item>Con una extensión de 76.000 hectáreas, este privilegiado lugar posee un cielo tan claro y limpio que permite la observación de los astros en un promedio de más de 275 noches por año. Dentro de la reserva se encuentra el Complejo Astronómico El Leoncito, ubicado a 2.552 metros sobre el nivel del mar y equipado con un telescopio de alta complejidad, y la Estación Astronómica Carlos Cesco, que posee características técnicas que lo hacen uno de los más importantes del hemisferio sur.</item>
+    </string-array>
+
+</resources>
